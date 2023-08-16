@@ -21,34 +21,42 @@ const AboutSectionTwo = () => {
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Development
+                1. Project Requirements
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Harness the full potential of your SaaS product and highlight its excellence through an extraordinary website. We stand as your reliable allies in creating a digital presence that radiates.
+                "Let's kick off with understanding your project needs and intricacies. We'll dive into a comprehensive analysis of your existing website, if available, pinpointing areas for enhancement."
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                UI/UX
+                2. Timeline & Planing
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Spark the core of your brand and attain indelible design with our synergistic agency. We plunge into the depths of your needs, sculpting personalized structures, enthralling palettes, and arresting fonts to fashion a refined visual allure for your SaaS offering.
+                "Using the insights gathered from Project Requirements, we'll craft a customized Timeline that aligns with your website's complexity. This roadmap will encompass a comprehensive project scope, precise timelines, and budget details."  
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Cloud Consultation & Deployment
+                3. Design & Development
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Embark on your SaaS expedition with unwavering assurance! Navigating the digital terrain might seem daunting and intricate. 
+                "Our collaborative team of designers and developers will synergize to craft an enchanting, high-performance website that perfectly caters to your business and captivates your target audience."
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Maintainance & Support
+                4. Testing & Quality Assurance
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                Maintaining your SaaS website encompasses steady content enhancements, encompassing text, visuals, and multimedia components, to guarantee its ongoing relevance and allure. We assume responsibility for rejuvenating your website, infusing it with fresh blog entries, revising product or service particulars, and rejuvenating visuals and videos.
+                "Prior to launch, we'll meticulously test your website to ensure bug-free functionality across all devices and browsers. Your website's flawless performance is our commitment."
+                </p>
+              </div>
+              <div className="mb-9">
+                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                5. Revisions & Launch
+                </h3>
+                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                "After resolving any discovered bugs from testing, we'll smoothly deploy your website into production. Our ongoing support for a seamless, up-to-date experience will extend over the initial days post-launch."
                 </p>
               </div>
             </div>
