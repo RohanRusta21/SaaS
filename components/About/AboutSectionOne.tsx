@@ -25,7 +25,9 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                paragraph=" Step into our premium SaaS development agency, where innovation fuels everything we do. With relentless dedication, we harness emerging tech to shape SaaS products that outshine the rest. Stay at the forefront with a modern, user-friendly, and future-proof SaaS experience.
+
+                Elevating your satisfaction is our supreme mission. We transcend your expectations through unparalleled customer service and support. Our devoted team stands primed to aid you at all times – offering prompt updates, resolving queries, and orchestrating a flawless voyage through your website development odyssey. "
                 mb="44px"
               />
 
@@ -36,14 +38,14 @@ const AboutSectionOne = () => {
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
                     <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Design & Development" />
+                    <List text="Maintainance & Support" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
+                    <List text="Testing & QA" />
                     <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="User friendly" />
                   </div>
                 </div>
               </div>
