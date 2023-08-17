@@ -5,28 +5,28 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "ABC",
+    designation: "Founder @ABC",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+    "Novus made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the services, Novus executed everything smoothly.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "XYZ",
+    designation: "Founder @XYZ",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+    "Novus was able to create a website that exceeded my expectations and met all of my business needs. I appreciated their attention to detail.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "DEF",
+    designation: "Founder @DEF",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+    "I had a fantastic experience working with Novus. Their team was incredibly knowledgeable and professional, and they were able to create a website that perfectly met my business needs.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
