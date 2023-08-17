@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const PricingBox = (props: {
   price: string;
   duration: string;
