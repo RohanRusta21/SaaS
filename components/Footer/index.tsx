@@ -29,8 +29,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Empowering the New
                 </p>
                 <div className="flex items-center">
                   <a
@@ -101,7 +100,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/"
+                      href="/blog"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
@@ -110,16 +109,16 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/contact"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Pricing{" "}
+                      Contact{" "}
                     </a>
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/about"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
@@ -197,7 +196,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      About{" "}
+                      Home{" "}
                     </a>
                   </li>
                 </ul>
