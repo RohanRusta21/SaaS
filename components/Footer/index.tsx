@@ -207,7 +207,7 @@ const Footer = () => {
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Made with Love By Rohan & Milan
+              Copyright (C) - 2023
             </p>
           </div>
         </div>
