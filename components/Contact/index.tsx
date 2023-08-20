@@ -1,4 +1,5 @@
 import NewsLatterBox from "./NewsLatterBox";
+import { useForm } from '@formcarry/react';
 
 const Contact = () => {
   return (
@@ -17,7 +18,7 @@ const Contact = () => {
               <p className="mb-12 text-base font-medium text-body-color">
                 Our support team will get back to you ASAP via email.
               </p>
-              <form>
+              <form action="https://formcarry.com/s/iavTOp46dY" method="POST" accept-charset="UTF-8">
                 <div className="-mx-4 flex flex-wrap">
                   <div className="w-full px-4 md:w-1/2">
                     <div className="mb-8">
